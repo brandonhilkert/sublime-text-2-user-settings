@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": 1352818578,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS (CoffeeScript)",
+		"ChangeQuotes",
+		"CoffeeScript",
+		"Color Highlighter",
+		"ColorPicker",
+		"EJS",
+		"ERB Insert and Toggle Commands",
+		"Git",
+		"Guard",
+		"HTML5",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit"
+	]
+}
