@@ -54,6 +54,7 @@
 	[
 		120
 	],
+	"save_on_focus_lost": true,
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",

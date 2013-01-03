@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1353508561,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -16,12 +16,14 @@
 		"HTML5",
 		"LESS",
 		"Markdown Preview",
+		"Markdown to Clipboard",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Rake",
 		"RSpec",
 		"RSpec (snippets and syntax)",
+		"Ruby Slim",
 		"RubyTest",
 		"SCSS",
 		"SideBarEnhancements",

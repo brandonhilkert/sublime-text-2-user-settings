@@ -1,5 +1,5 @@
 {
 	"last_test_file": "user_spec.rb",
-	"last_test_run": "rspec spec/requests/home/matches_spec.rb -l3",
-	"last_test_working_dir": "/Users/bhilkert/Dropbox/code/meeteor"
+	"last_test_run": "zeus rspec spec/models/user_spec.rb",
+	"last_test_working_dir": "/Users/bhilkert/Dropbox/code/simpletext"
 }
