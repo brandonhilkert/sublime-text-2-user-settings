@@ -57,6 +57,7 @@
 	"save_on_focus_lost": true,
 	"tab_completion": true,
 	"tab_size": 2,
+	"show_minimap": false,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
